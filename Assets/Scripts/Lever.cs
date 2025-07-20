@@ -19,7 +19,6 @@ public class Lever : MonoBehaviour
 
     public void ToggleLever()
     {
-        print("toggle lever");
         _isOn = !_isOn;
 
         if (_anim != null )

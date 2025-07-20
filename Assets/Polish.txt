@@ -1,2 +1,7 @@
 - light switch audio
 - lever manual move up and down
+
+to-do
+- get light switches doing something
+- get levers doing something
+- get picture frame slottinng doing something and get pictures for frames

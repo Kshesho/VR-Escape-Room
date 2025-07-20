@@ -19,7 +19,6 @@ public class LightSwitch : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            print("player touched");
             _isOn = !_isOn;
 
             // Trigger animation
